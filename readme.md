@@ -46,6 +46,8 @@
 5. Why does she love me?
 6. How do you play this game?
 
+========================================================================================
+
 ## Present Continous
 
 ### Formula for sentence
@@ -96,7 +98,7 @@
 5. Why am I eating chocolate ?
 6. How are they travelling ?
 
-## Simple Future
+========================================================================================
 
 ### Formula for sentence
 | Subject     | Will      | Verb 1  |
@@ -127,6 +129,25 @@
 6. She won't buy this car.
 7. It won't be amazing.
 
+### Yes/No Question
+1. Will I buy this game for them?
+2. Will you go to scholl tommorow?
+3. Will they meet each other?
+4. Will we sell this item?
+5. Will He eat this food?
+6. Will She love this stuff?
+7. Will it be a good game?
+
+### 5W + 1H
+1. What will you do tommorow?
+2. When will they visit us?
+3. Where will we go go?
+4. Who will arrive first?
+5. Why will you do that?
+6. How will she play that game?
+
+========================================================================================
+
 ## Simple Past
 
 ### Formula for sentence with Verb
@@ -139,6 +160,7 @@
 | He          | Verb 2    | Noun / Adj  |
 | She         | Verb 2    | Noun / Adj  |
 | It          | Verb 2    | Noun / Adj  |
+
 ### Positive Sentence
 1. I bought this game yesterday.
 2. You lost against me yesterday.
@@ -156,6 +178,24 @@
 5. He didn't hit his boss.
 6. She didn't play with you last night
 7. It didn't sell to Mr Jarjit.
+
+### Yes/No Question
+1. Did I buy this game?
+2. Did you love him?
+3. Did they meet each others on this road last night?
+4. Did we go with this car yesterday?
+5. Did He kiss her?
+6. Did She play this game last night? 
+7. Did It work?
+
+
+### 5W + 1H
+1. What 
+2. When 
+3. Where 
+4. Who 
+5. Why 
+6. How 
 
 ### Formula for sentence without Verb
 | Subject     | To Be     | Noun / Adj  |
@@ -186,9 +226,11 @@
 6. She wasn't beautiful.
 7. It wasn't an amazing culture.
 
-## Past Continous
----
+========================================================================================
 
+## Past Continous
+
+========================================================================================
 
 ## Present Perfect
 
@@ -203,6 +245,42 @@ Formula for sentence
 | She         | Has       | Verb 3  | Noun / Adj  |
 | It          | Has       | Verb 3  | Noun / Adj  |
 
+### Positive Sentence
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+### Negative Sentence
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+### Yes/No Question
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+
+### 5W + 1H
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+========================================================================================
 
 ## Present Perfect Continous
 
